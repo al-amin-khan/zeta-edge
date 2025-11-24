@@ -74,34 +74,26 @@ const Navbar = () => {
                     }
                 </ul>
             </div>
-            <div className="navbar-end space-x-1">
-                <div className='space-x-1'>
-                    <Link href='/auth/login' className="btn">Sign In</Link>
-                    <Link href='/auth/register' className="btn bg-primary text-neutral">Register</Link>
-                </div>
-
-                <div class="dropdown dropdown-end">
-                    <div tabindex="0" role="button" class="btn btn-ghost btn-circle avatar">
-                        <div class="w-10 rounded-full">
-                            <Image
-                                alt="Tailwind CSS Navbar component"
-                                src={userPhoto}
-                            />
-                        </div>
+            <div className="dropdown dropdown-end">
+                <div tabIndex={0} role="button" className="btn btn-ghost btn-circle avatar">
+                    <div className="w-10 rounded-full">
+                        <Image
+                            alt="Tailwind CSS Navbar component"
+                            src={userPhoto} />
                     </div>
-                    <ul
-                        tabindex="-1"
-                        class="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-                        <li>
-                            <a class="justify-between">
-                                Profile
-                                <span class="badge">New</span>
-                            </a>
-                        </li>
-                        <li><a>Settings</a></li>
-                        <li><a>Logout</a></li>
-                    </ul>
                 </div>
+                <ul
+                    tabIndex="-1"
+                    className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
+                    <li>
+                        <a className="justify-between">
+                            Profile
+                            <span className="badge">New</span>
+                        </a>
+                    </li>
+                    <li><a>Settings</a></li>
+                    <li><a>Logout</a></li>
+                </ul>
             </div>
         </div >
     );
