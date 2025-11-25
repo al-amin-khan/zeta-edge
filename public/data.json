@@ -1,0 +1,574 @@
+[
+    {
+        "id": 1,
+        "title": "Apple iPhone 15",
+        "category": "phone",
+        "brand": "Apple",
+        "price": 799,
+        "currency": "USD",
+        "image": "https://www.apple.com/newsroom/images/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/article/Apple-iPhone-15-lineup-design-230912_big.jpg.large.jpg",
+        "shortDescription": "6.1\" Super Retina XDR display, A16 Bionic, dual 48MP camera.",
+        "rating": 4.8,
+        "inStock": true,
+        "storageOptions": [
+            "128GB",
+            "256GB",
+            "512GB"
+        ],
+        "colors": [
+            "Black",
+            "Blue",
+            "Green",
+            "Yellow",
+            "Pink"
+        ],
+        "tags": [
+            "5G",
+            "USB-C",
+            "Flagship"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Samsung Galaxy A55 5G",
+        "category": "phone",
+        "brand": "Samsung",
+        "price": 449,
+        "currency": "USD",
+        "image": "https://www.samsungmobilepress.com/file/2C5D5160C017F1660E6CF73A55DC0F13AA250DA36EF59B23911EE2B662B59FA0B4CB729CC564DB9305FD87127F0FA49F2D546EE5776F67AA324E92A48AF5FD1C2C614D790206619DA8DFC7E2E0C93AD689CADB0A75978D467671C4A91AA2C1E0169B7053F6EB29EE107F0AAC8A48BD0FAE257A1F039840DA68F28E6F9C484CBB53EC1F5F72BCE235BAE6122F5F0129E7",
+        "shortDescription": "6.6\" FHD+ Super AMOLED 120Hz, 50MP triple camera, 5000mAh.",
+        "rating": 4.5,
+        "inStock": true,
+        "storageOptions": [
+            "128GB",
+            "256GB"
+        ],
+        "colors": [
+            "Awesome Iceblue",
+            "Awesome Lilac",
+            "Awesome Lemon",
+            "Awesome Navy"
+        ],
+        "tags": [
+            "5G",
+            "120Hz",
+            "Mid-range"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Google Pixel 8a",
+        "category": "phone",
+        "brand": "Google",
+        "price": 499,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Google+Pixel+8a",
+        "shortDescription": "6.1\" OLED 120Hz, Tensor G3, excellent AI camera.",
+        "rating": 4.7,
+        "inStock": true,
+        "storageOptions": [
+            "128GB",
+            "256GB"
+        ],
+        "colors": [
+            "Porcelain",
+            "Bay",
+            "Obsidian",
+            "Aloe"
+        ],
+        "tags": [
+            "Camera",
+            "AI",
+            "Stock Android"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Xiaomi Redmi Note 13",
+        "category": "phone",
+        "brand": "Xiaomi",
+        "price": 289,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Redmi+Note+13",
+        "shortDescription": "6.67\" AMOLED 120Hz, 108MP camera, 5000mAh battery.",
+        "rating": 4.4,
+        "inStock": true,
+        "storageOptions": [
+            "128GB",
+            "256GB"
+        ],
+        "colors": [
+            "Midnight Black",
+            "Mint Green",
+            "Ice Blue"
+        ],
+        "tags": [
+            "Budget",
+            "108MP",
+            "Fast charging"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "OnePlus Nord CE4",
+        "category": "phone",
+        "brand": "OnePlus",
+        "price": 379,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=OnePlus+Nord+CE4",
+        "shortDescription": "6.7\" AMOLED 120Hz, Snapdragon 7 Gen 3, 100W fast charge.",
+        "rating": 4.3,
+        "inStock": true,
+        "storageOptions": [
+            "128GB",
+            "256GB"
+        ],
+        "colors": [
+            "Dark Chrome",
+            "Celadon Marble"
+        ],
+        "tags": [
+            "5G",
+            "Fast charging"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "realme C65",
+        "category": "phone",
+        "brand": "realme",
+        "price": 199,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=realme+C65",
+        "shortDescription": "6.72\" 90Hz display, large battery, budget-friendly.",
+        "rating": 4.1,
+        "inStock": true,
+        "storageOptions": [
+            "128GB",
+            "256GB"
+        ],
+        "colors": [
+            "Feather Green",
+            "Glowing Black"
+        ],
+        "tags": [
+            "Budget",
+            "Big battery"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Anker 511 Charger (Nano 3, 30W)",
+        "category": "accessories",
+        "brand": "Anker",
+        "price": 23.99,
+        "currency": "USD",
+        "image": "https://cdn.shopify.com/s/files/1/0595/4034/0926/files/A2147311_TD01__1_-removebg-preview_3840x.png?v=1760089130",
+        "shortDescription": "Ultra-compact 30W USB-C fast charger with GaN technology.",
+        "rating": 4.7,
+        "inStock": true,
+        "tags": [
+            "Charger",
+            "USB-C",
+            "GaN"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Apple AirPods Pro (2nd generation) with MagSafe",
+        "category": "accessories",
+        "brand": "Apple",
+        "price": 249,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=AirPods+Pro+2",
+        "shortDescription": "Active Noise Cancellation, Adaptive Audio, MagSafe charging case.",
+        "rating": 4.8,
+        "inStock": true,
+        "tags": [
+            "Earbuds",
+            "ANC",
+            "Spatial Audio"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Samsung 25W USB-C Fast Charging Wall Charger",
+        "category": "accessories",
+        "brand": "Samsung",
+        "price": 19.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Samsung+25W+Charger",
+        "shortDescription": "Official Samsung 25W USB-C PD wall charger for Galaxy devices.",
+        "rating": 4.6,
+        "inStock": true,
+        "tags": [
+            "Charger",
+            "USB-C",
+            "PD"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Spigen Liquid Air Case for iPhone 15",
+        "category": "accessories",
+        "brand": "Spigen",
+        "price": 16.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Spigen+Liquid+Air",
+        "shortDescription": "Slim protective TPU case with anti-slip matte finish.",
+        "rating": 4.7,
+        "inStock": true,
+        "tags": [
+            "Case",
+            "Protection"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "UGREEN USB-C to USB-C Cable 100W",
+        "category": "accessories",
+        "brand": "UGREEN",
+        "price": 12.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=UGREEN+USB-C+Cable",
+        "shortDescription": "USB-C PD cable supporting up to 100W fast charging.",
+        "rating": 4.5,
+        "inStock": true,
+        "tags": [
+            "Cable",
+            "USB-C",
+            "100W"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Anker PowerCore Slim 10000",
+        "category": "accessories",
+        "brand": "Anker",
+        "price": 34.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=PowerCore+Slim+10000",
+        "shortDescription": "10,000mAh slim power bank with PowerIQ fast charging.",
+        "rating": 4.6,
+        "inStock": true,
+        "tags": [
+            "Power Bank",
+            "Portable"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Apple Watch SE (2nd generation)",
+        "category": "smart watch",
+        "brand": "Apple",
+        "price": 249,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Apple+Watch+SE+2",
+        "shortDescription": "Retina display, fitness tracking, crash detection, swimproof.",
+        "rating": 4.7,
+        "inStock": true,
+        "tags": [
+            "Fitness",
+            "iOS",
+            "Smartwatch"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Samsung Galaxy Watch6 40mm",
+        "category": "smart watch",
+        "brand": "Samsung",
+        "price": 299,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Galaxy+Watch6",
+        "shortDescription": "Super AMOLED display, body composition, advanced sleep tracking.",
+        "rating": 4.5,
+        "inStock": true,
+        "tags": [
+            "WearOS",
+            "Fitness",
+            "Samsung"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Xiaomi Redmi Watch 4",
+        "category": "smart watch",
+        "brand": "Xiaomi",
+        "price": 99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Redmi+Watch+4",
+        "shortDescription": "1.97\" AMOLED, GPS, up to 20 days battery life.",
+        "rating": 4.3,
+        "inStock": true,
+        "tags": [
+            "Budget",
+            "GPS",
+            "Smartwatch"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Amazfit Bip 5",
+        "category": "smart watch",
+        "brand": "Amazfit",
+        "price": 89,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Amazfit+Bip+5",
+        "shortDescription": "Large display, long battery life, 120+ sports modes.",
+        "rating": 4.2,
+        "inStock": true,
+        "tags": [
+            "Budget",
+            "Long battery"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Fitbit Versa 4",
+        "category": "smart watch",
+        "brand": "Fitbit",
+        "price": 229,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Fitbit+Versa+4",
+        "shortDescription": "Daily Readiness, GPS, heart health and sleep tracking.",
+        "rating": 4.4,
+        "inStock": true,
+        "tags": [
+            "Fitness",
+            "Sleep",
+            "Health"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Huawei Watch Fit 3",
+        "category": "smart watch",
+        "brand": "Huawei",
+        "price": 169,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Huawei+Watch+Fit+3",
+        "shortDescription": "Lightweight square design, health & sports tracking.",
+        "rating": 4.3,
+        "inStock": true,
+        "tags": [
+            "Fitness",
+            "Lightweight"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Amazon Echo Dot (5th Gen)",
+        "category": "gadget",
+        "brand": "Amazon",
+        "price": 49.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Echo+Dot+5",
+        "shortDescription": "Smart speaker with Alexa and improved sound.",
+        "rating": 4.6,
+        "inStock": true,
+        "tags": [
+            "Smart speaker",
+            "Alexa",
+            "Smart home"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Google Chromecast with Google TV (4K)",
+        "category": "gadget",
+        "brand": "Google",
+        "price": 49.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Chromecast+with+Google+TV",
+        "shortDescription": "4K HDR streaming device with Google TV interface.",
+        "rating": 4.5,
+        "inStock": true,
+        "tags": [
+            "Streaming",
+            "4K",
+            "Google TV"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "TP-Link Tapo C200 Wi-Fi Security Camera",
+        "category": "gadget",
+        "brand": "TP-Link",
+        "price": 39.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Tapo+C200",
+        "shortDescription": "Pan/tilt indoor Wi-Fi camera with night vision.",
+        "rating": 4.4,
+        "inStock": true,
+        "tags": [
+            "Security",
+            "Wi-Fi camera"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Anker Soundcore 3 Bluetooth Speaker",
+        "category": "gadget",
+        "brand": "Anker",
+        "price": 55.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Soundcore+3",
+        "shortDescription": "Portable Bluetooth speaker with 24-hour playtime.",
+        "rating": 4.7,
+        "inStock": true,
+        "tags": [
+            "Speaker",
+            "Bluetooth",
+            "Portable"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "TP-Link Kasa Smart Plug Mini (HS103)",
+        "category": "gadget",
+        "brand": "TP-Link",
+        "price": 17.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Kasa+Smart+Plug",
+        "shortDescription": "Wi-Fi smart plug with app and voice control.",
+        "rating": 4.6,
+        "inStock": true,
+        "tags": [
+            "Smart plug",
+            "Smart home"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Xiaomi Mi Smart Speaker",
+        "category": "gadget",
+        "brand": "Xiaomi",
+        "price": 59.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Mi+Smart+Speaker",
+        "shortDescription": "Smart speaker with Google Assistant and DTS sound.",
+        "rating": 4.3,
+        "inStock": true,
+        "tags": [
+            "Smart speaker",
+            "Google Assistant"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Apple MacBook Air 13-inch (M2)",
+        "category": "laptop",
+        "brand": "Apple",
+        "price": 1099,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=MacBook+Air+M2",
+        "shortDescription": "13.6\" Liquid Retina, Apple M2 chip, fanless design.",
+        "rating": 4.8,
+        "inStock": true,
+        "processor": "Apple M2",
+        "ram": "8GB",
+        "storage": "256GB SSD",
+        "tags": [
+            "Ultrabook",
+            "MacOS",
+            "Portable"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Dell XPS 13 (9315)",
+        "category": "laptop",
+        "brand": "Dell",
+        "price": 1249,
+        "currency": "USD",
+        "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9315/media-gallery/notebook-xps-9315-nt-blue-gallery-3.psd?chrss=full&fmt=png-alpha&hei=64&qlt=100%2C1&resMode=sharp2&scl=1&size=92%2C64&wid=92",
+        "shortDescription": "13.4\" FHD+ display, Intel Core i7, premium build.",
+        "rating": 4.6,
+        "inStock": true,
+        "processor": "Intel Core i7",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "tags": [
+            "Ultrabook",
+            "Windows"
+        ]
+    },
+    {
+        "id": 27,
+        "title": "HP Pavilion 15",
+        "category": "laptop",
+        "brand": "HP",
+        "price": 799,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=HP+Pavilion+15",
+        "shortDescription": "15.6\" FHD, Intel Core i5, solid everyday laptop.",
+        "rating": 4.2,
+        "inStock": true,
+        "processor": "Intel Core i5",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "tags": [
+            "Everyday",
+            "Office"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Lenovo IdeaPad Slim 3 15",
+        "category": "laptop",
+        "brand": "Lenovo",
+        "price": 699,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=IdeaPad+Slim+3",
+        "shortDescription": "15.6\" FHD, AMD Ryzen 5, lightweight design.",
+        "rating": 4.3,
+        "inStock": true,
+        "processor": "AMD Ryzen 5",
+        "ram": "8GB",
+        "storage": "512GB SSD",
+        "tags": [
+            "Student",
+            "Everyday"
+        ]
+    },
+    {
+        "id": 29,
+        "title": "ASUS TUF Gaming F15",
+        "category": "laptop",
+        "brand": "ASUS",
+        "price": 1099,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=ASUS+TUF+Gaming+F15",
+        "shortDescription": "15.6\" 144Hz, Intel Core i7, NVIDIA RTX 4060.",
+        "rating": 4.5,
+        "inStock": true,
+        "processor": "Intel Core i7",
+        "ram": "16GB",
+        "storage": "1TB SSD",
+        "tags": [
+            "Gaming",
+            "144Hz",
+            "RTX"
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Acer Aspire 5 A515",
+        "category": "laptop",
+        "brand": "Acer",
+        "price": 649,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/400x400?text=Acer+Aspire+5",
+        "shortDescription": "15.6\" FHD, Intel Core i5, great value work laptop.",
+        "rating": 4.2,
+        "inStock": true,
+        "processor": "Intel Core i5",
+        "ram": "8GB",
+        "storage": "512GB SSD",
+        "tags": [
+            "Budget",
+            "Everyday"
+        ]
+    }
+]

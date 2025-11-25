@@ -95,7 +95,8 @@ const Navbar = () => {
                                 Profile
                             </a>
                         </li>
-                        <li><a>Settings</a></li>
+                        <li><a>Add Product</a></li>
+                        <li><a>Manage Product</a></li>
                         <li><a>Logout</a></li>
                     </ul>
                 </div>
