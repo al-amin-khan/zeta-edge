@@ -33,7 +33,7 @@ const Navbar = () => {
             : '';
 
     return (
-        <div className="navbar bg-base-100 shadow-sm rounded-xl">
+        <div className="navbar bg-base-100 shadow-sm rounded-xl fixed w-10/12 z-10 mx-auto left-0 right-0">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -74,26 +74,31 @@ const Navbar = () => {
                     }
                 </ul>
             </div>
-            <div className="dropdown dropdown-end">
-                <div tabIndex={0} role="button" className="btn btn-ghost btn-circle avatar">
-                    <div className="w-10 rounded-full">
-                        <Image
-                            alt="Tailwind CSS Navbar component"
-                            src={userPhoto} />
-                    </div>
+            <div className="navbar-end">
+                <div className="space-x-1">
+                    <Link href='/login' className="btn">Sign In</Link>
+                    <Link href='/register' className="btn">Register</Link>
                 </div>
-                <ul
-                    tabIndex="-1"
-                    className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-                    <li>
-                        <a className="justify-between">
-                            Profile
-                            <span className="badge">New</span>
-                        </a>
-                    </li>
-                    <li><a>Settings</a></li>
-                    <li><a>Logout</a></li>
-                </ul>
+                <div className="dropdown dropdown-end ml-1">
+                    <div tabIndex={0} role="button" className="btn btn-ghost btn-circle avatar">
+                        <div className="w-10 rounded-full">
+                            <Image
+                                alt="Tailwind CSS Navbar component"
+                                src={userPhoto} />
+                        </div>
+                    </div>
+                    <ul
+                        tabIndex="-1"
+                        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
+                        <li>
+                            <a className="justify-between">
+                                Profile
+                            </a>
+                        </li>
+                        <li><a>Settings</a></li>
+                        <li><a>Logout</a></li>
+                    </ul>
+                </div>
             </div>
         </div >
     );
