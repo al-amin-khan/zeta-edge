@@ -6,11 +6,9 @@ const Card = ({product}) => {
     return (
         <div className="card bg-base-100 shadow-sm">
             <figure className='w-full h-full' >
-                <Image
+                <img
                     src={image}
                     alt={title}
-                    width={300}
-                    height={300}
                     />
             </figure>
             <div className="card-body">
