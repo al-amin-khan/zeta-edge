@@ -1,11 +1,11 @@
 // app/login/page.jsx (or whatever your file path is)
 "use client";
 
-import { useState } from "react";
+import { Suspense, useState } from "react";
 import { signIn } from "next-auth/react";
 import { useRouter, useSearchParams } from "next/navigation";
 
-export default function LoginPage() {
+function LoginForm() {
     const router = useRouter();
     const searchParams = useSearchParams();
     
@@ -81,5 +81,13 @@ export default function LoginPage() {
                 </button>
             </form>
         </div>
+    );
+}
+
+export default function LoginPage() {
+    return (
+        <Suspense fallback={<div className="p-6 text-center">Loading...</div>}>
+            <LoginForm />
+        </Suspense>
     );
 }
